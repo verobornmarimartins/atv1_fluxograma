@@ -1,0 +1,42 @@
+
+Aluno@UO017M4075488 MINGW64 ~/GIT
+$ https://github.com/verobornmarimartins/Fluxograma.git
+bash: https://github.com/verobornmarimartins/Fluxograma.git: No such file or directory
+
+Aluno@UO017M4075488 MINGW64 ~/GIT
+$ <script> _ _
+bash: script: No such file or directory
+
+Aluno@UO017M4075488 MINGW64 ~/GIT
+$ saldo = parsenInt ( prompt ( "Informar saldo inicial" ) ) ;
+bash: syntax error near unexpected token `('
+
+Aluno@UO017M4075488 MINGW64 ~/GIT
+$ documento . escreva ( "Saldo inicial: " + saldo + "<br>" );
+bash: syntax error near unexpected token `('
+
+Aluno@UO017M4075488 MINGW64 ~/GIT
+$ while ( encerrar == "n" )
+> quantidade = parseInt ( prompt ( "Informar a quantidade" ) ) ;
+bash: syntax error near unexpected token `('
+
+Aluno@UO017M4075488 MINGW64 ~/GIT
+$ saldo = saldo + quantidade ;
+bash: saldo: command not found
+
+Aluno@UO017M4075488 MINGW64 ~/GIT
+$ if ( saldo >= quantidade )
+> saldo = saldo - quantidade ;
+> documento . escreva ( "Saída: " + quantidade + "<br>" ) ;
+bash: syntax error near unexpected token `('
+
+Aluno@UO017M4075488 MINGW64 ~/GIT
+$ documento . escreva ( "Saldo insuficiente" + "<br>" ) ;
+bash: syntax error near unexpected token `('
+
+Aluno@UO017M4075488 MINGW64 ~/GIT
+$ encerrar = prompt ( "Deseja encerrar? (s/n)" ) ;
+bash: syntax error near unexpected token `('
+
+Aluno@UO017M4075488 MINGW64 ~/GIT
+$
